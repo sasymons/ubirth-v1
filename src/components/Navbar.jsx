@@ -14,7 +14,7 @@ const Navbar = () => {
         <div>
           <ul className="hidden md:flex text-white">
             <li>
-              <a href="/ubirth-v1">HOME</a>
+              <a href="#home">HOME</a>
             </li>
             <li>
               <a href="#services">SERVICES</a>
@@ -45,7 +45,7 @@ const Navbar = () => {
       >
         <ul className="h-full w-full text-center pt-12">
           <li className="text-2xl py-8">
-            <a href="/ubirth-v1">HOME</a>
+            <a href="#home">HOME</a>
           </li>
           <li className="text-2xl py-8">
             <a href="#services">SERVICES</a>
