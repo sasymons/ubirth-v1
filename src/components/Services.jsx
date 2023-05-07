@@ -11,7 +11,7 @@ const Services = () => {
         <img
           src={uBPink}
           alt="uBirthLogoPink"
-          className="w-[140px] mt-[-50px] z-10 md:z-10 md:mt-[-100px] md:w-[260px] "
+          className="w-[140px] mt-[-30px] z-10 md:z-10 md:mt-[-100px] md:w-[260px] "
         />
       </div>
       <div className="flex">
