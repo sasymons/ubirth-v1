@@ -17,7 +17,7 @@ const Footer = () => {
           <p className="text-white text-center text-xl py-2 md:text-2xl md:py-1">
             Sandra Szycman
           </p>
-          <p className="text-white text-center">BSc Midwifery</p>
+          <p className="text-white text-center">BSc Midwifery, IBCLC</p>
           <p className="text-white text-center">
             Founder - Ante & Post Natal Education
           </p>
